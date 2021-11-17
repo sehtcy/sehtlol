@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Seth
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Python, Java, and C
-- 💞️ I’m looking to collaborate on projects that will improve my skills in coding
-- 📫 You can reach me here:
+- Hi, I’m Seth. I'm a little new to computer science and I wanted to expand/sharpen my coding skills as well as troubleshooting. Currently, I have experience in Python which is my strongest language, but I know a few things about Java and C; MySQL database is also one of my strong spots too. On Github, I want to gain more project experience to at least get myself started. I may code on my free time or hopefully collab with other people.
 
-      1. Email - drywizard46@gmail.com
-      2. Discord - seht#0021
+- Feel free to reach me here:
+
+      1. Discord - seht#0021
 
 <!---
 sehtlol/sehtlol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
