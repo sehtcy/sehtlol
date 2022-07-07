@@ -2,7 +2,7 @@
 
 - Feel free to reach me here:
 
-      1. Discord - seht#0021
+      1. Discord - seht#9999
 
 <!---
 sehtlol/sehtlol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
